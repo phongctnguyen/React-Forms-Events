@@ -4,6 +4,6 @@
 
 * Some Events:
 
-  - onClick: User Clicks on something
-  - onChange: User changes text in an input
-  - onSubmit: User submits a form
+  - **onClick**: User Clicks on something
+  - **onChange**: User changes text in an input
+  - **onSubmit**: User submits a form
